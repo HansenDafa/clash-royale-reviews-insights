@@ -1,6 +1,4 @@
 
-
-```markdown
 # 📊 Clash Royale Reviews Insights
 
 Proyek ini bertujuan untuk **mengambil, membersihkan, menganalisis, dan memvisualisasikan** komentar pengguna dari Google Play Store terhadap game **Clash Royale**. Analisis mencakup *sentiment analysis*, *topic modeling*, dan visualisasi interaktif menggunakan **Streamlit**.
@@ -9,7 +7,7 @@ Proyek ini bertujuan untuk **mengambil, membersihkan, menganalisis, dan memvisua
 
 ## 🔧 Struktur Proyek
 
-```
+```bash
 
 clash-royale-reviews-insights/
 │
@@ -26,7 +24,7 @@ clash-royale-reviews-insights/
 ├── requirements.txt             # Dependensi Python untuk proyek ini
 └── README.md                    # Dokumentasi proyek
 
-````
+```
 
 ---
 
@@ -37,7 +35,7 @@ clash-royale-reviews-insights/
 ```bash
 git clone https://github.com/username/clash-royale-reviews-insights.git
 cd clash-royale-reviews-insights
-````
+```
 
 ### 2. Aktifkan environment Python
 
@@ -90,6 +88,5 @@ Silakan buat pull request atau buka issue jika ingin berkontribusi atau menemuka
 ---
 
 ## 📄 Lisensi
-
-MIT License © 2025 Hansen Dafa
+License © 2025 Hansen Dafa
 
