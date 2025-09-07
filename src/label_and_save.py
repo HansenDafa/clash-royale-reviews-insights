@@ -14,7 +14,7 @@ if "content" not in df.columns:
     raise ValueError("Kolom 'content' tidak ditemukan dalam dataset.")
 
 # Prediksi sentimen
-print("🔍 Melabeli sentimen menggunakan IndoBERT...")
+print("🔍 Melabeli sentimen menggunakan IBM Granite...")
 df["sentiment_label"] = predict_sentiment(df["content"].tolist())
 
 # Simpan ke folder labeled/
